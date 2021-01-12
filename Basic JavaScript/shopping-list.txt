@@ -1,0 +1,7 @@
+var myList = [
+    ["Chocolate Bar", 2],
+    ["Lasagna", 1],
+    ["Milk", 5],
+    ["Cleaning products", 5],
+    ["Ice Cream", 2]
+];
